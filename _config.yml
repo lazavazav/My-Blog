@@ -1,12 +1,8 @@
 title: Leslie's Blog 
 author: lazavazav
 description: > # this means to ignore newlines until "baseurl:"
-Starting a new career is hard. Explore with me the challenges of changing careers. It might be even harder over 40. What to expect during a career change.
-
-# social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+Starting a new career is hard. Explore with me the challenges of changing careers. It might be even harder over 40. What to expect during a later in life second career change.
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-architect
+theme: jekyll-theme-minima
